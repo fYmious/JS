@@ -13,4 +13,4 @@ function alphanumeric(string)
     return true
 }
 
-console.log(alphanumeric("     "))
+console.log(alphanumeric("   123  "))
